@@ -1,0 +1,7 @@
+*.nfs*
+work/
+test*/
+test*
+.nextflow*
+report*
+trace*
